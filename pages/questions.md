@@ -9,7 +9,7 @@ Reliability
 </details>
 
 <details>
-<summary>Which component of the AWS Global Infrastructure is made up of one or more discrete data centers that have redundant power, networking, and connectivity?structure is made up of one or more discrete data centers that have redundant power, networking, and connectivity?
+<summary>Which component of the AWS Global Infrastructure is made up of one or more discrete data centers that have redundant power, networking, and connectivity?
 </summary><br><b>
 
 Availability zones
